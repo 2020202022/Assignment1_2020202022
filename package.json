@@ -1,0 +1,25 @@
+{
+    "name": "kw-num-nest",
+    "version": "0.0.1",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "bin": {
+        "numnest": "./main.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/2020202022/kw-num-nest.git"
+    },
+    "author": "2020202022",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/2020202022/kw-num-nest/issues"
+    },
+    "homepage": "https://github.com/2020202022/kw-num-nest#readme",
+    "devDependencies": {
+        "jest": "^29.7.0"
+    }
+}
