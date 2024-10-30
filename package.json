@@ -1,5 +1,5 @@
 {
-    "name": "test_2020202022",
+    "name": "assignment1_2020202022",
     "version": "0.0.1",
     "description": "",
     "main": "main.js",
@@ -11,14 +11,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com/2020202022/kw-num-nest.git"
+        "url": "git+ssh://git@github.com/2020202022/Assignment1_2020202022.git"
     },
     "author": "2020202022",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/2020202022/kw-num-nest/issues"
+        "url": "https://github.com/2020202022/Assignment1_2020202022/issues"
     },
-    "homepage": "https://github.com/2020202022/kw-num-nest#readme",
+    "homepage": "https://github.com/2020202022/Assignment1_2020202022#readme",
     "devDependencies": {
         "jest": "^29.7.0"
     }
